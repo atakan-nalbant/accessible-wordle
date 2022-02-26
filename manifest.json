@@ -8,8 +8,8 @@
       "matches": [
         "https://www.powerlanguage.co.uk/wordle/",
         "https://www.nytimes.com/games/wordle/*",
-        "https://www.bundle.app/wordle-tr/"
-      ],
+        "https://www.bundle.app/wordle-tr/",
+        "http://wordle6.acikbilim.com/"      ],
       "js": ["wordle-script.js"]
     }
   ]
