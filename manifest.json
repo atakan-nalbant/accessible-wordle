@@ -1,5 +1,5 @@
 {
-  "name": "Make Wordle Accessible",
+  "name": "atakan-wordle",
   "manifest_version": 3,
   "version": "0.3",
   "description": "Makes the popular game Wordle accessible to screen-reader users.",
@@ -7,7 +7,8 @@
     {
       "matches": [
         "https://www.powerlanguage.co.uk/wordle/",
-        "https://www.nytimes.com/games/wordle/*"
+        "https://www.nytimes.com/games/wordle/*",
+        "https://www.bundle.app/wordle-tr/"
       ],
       "js": ["wordle-script.js"]
     }
